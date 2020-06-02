@@ -5,8 +5,13 @@
 1. What is it
 2. 🌟 Base structure
 3. Work with the DOM
-4. Additional features
+4. Extra features
+5. Create game (practice)
+6. Objects and functions
+7. EC 6 (syntax)
+8. Asynchrony
+9. Create app (practice)
 
- and more interesting things.
- 
- Thanks!
+Finished!
+
+Thanks!
