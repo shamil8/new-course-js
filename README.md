@@ -8,7 +8,7 @@
 4. Extra features
 5. Create game (practice)
 6. Objects and functions
-7. EC 6 (syntax)
+7. ES 6 (syntax)
 8. Asynchrony
 9. Create app (practice)
 
